@@ -19,6 +19,7 @@
         color: $Green !important;
         border-color: transparent !important;
         border-radius: 0px;
+        width: 150px;
     }
     
     a:hover{
@@ -26,6 +27,7 @@
         color: $Green !important;
         border-color: transparent !important;
         border-radius: 0px;
+        width: 150px;
     }
 
     a{
@@ -78,6 +80,7 @@
         font-size: 22px;
         font-weight: 500;
         margin-bottom: 5px;
+        margin-left: 20px;
 
         .company-tab-content{
             color: $Green;
@@ -88,12 +91,13 @@
         font-family: $CodeFont;
         font-size: 13px;
         font-weight: normal;
-            -webkit-letter-spacing: 0.05em;
+        -webkit-letter-spacing: 0.05em;
         -moz-letter-spacing: 0.05em;
         -ms-letter-spacing: 0.05em;
         letter-spacing: 0.05em;
         color: $LightSlate;
         margin-bottom: 30px;
+        margin-left: 20px;
     }
     
     .job-description{
@@ -101,6 +105,7 @@
         padding-left: 30px;
         margin-bottom: 10px;
         font-size: 18px;
+        margin-left: 20px;
 
         &:before {
             content: '▹';

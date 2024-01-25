@@ -38,7 +38,7 @@
         "Title": "Independiente",
         "Date": "Mayo 2016 - Actualidad",
         "Description": [
-          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
+          "Implementacion de mejoras continuas, trabajando en FullStack y backend.",
           "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
           "Automatizacion de procesos con estructuras de datos.",
           "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
@@ -58,7 +58,7 @@
       },
       {
         "Tab": "TechLatam",
-        "Title": "Frontend developer",
+        "Title": "FullStack developer",
         "Date": "Febrero 2016 - Mayo 2017",
         "Description": [
           "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
