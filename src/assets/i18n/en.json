@@ -58,20 +58,21 @@
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "Code Stack",
+            "Description": "E-Learning application made from scratch with <span class='underline'>HBS, Node</span>, <span class='underline'> Express</span>, and <span class='underline'>MongoDB</span>.",
             "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+                "assets/images/ecom/ecom1.png",
+                "assets/images/ecom/ecom2.png",
+                "assets/images/ecom/ecom3.png",
+                "assets/images/ecom/ecom4.png",
+                "assets/images/ecom/ecom5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "demoLink": "https://e-learning-production-2307.up.railway.app/",
+            "Technologies": ["HBS", "NodeJs", "Express", "MongoDB"]
         },
         {
-            "Title": "Tu super plan",
-            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "Title": "Urban Monkey Clone",
+            "Description": "E-commerce Website made from scratch with <span class='underline'>React, Node</span>, <span class='underline'>Express</span>, and <span class='underline'>MonogDB.</span>",
             "imgs": [
                 "assets/images/tusuperplan/tusuperplan1.png",
                 "assets/images/tusuperplan/tusuperplan2.png",
@@ -79,7 +80,7 @@
                 "assets/images/tusuperplan/tusuperplan4.png",
                 "assets/images/tusuperplan/tusuperplan5.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+            "Technologies": ["ReactJs", "NodeJs", "Express", "MongoDB"]
         },
         {
             "Title": "Proyexiot",
