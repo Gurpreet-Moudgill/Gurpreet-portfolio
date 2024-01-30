@@ -80,6 +80,7 @@
                 "assets/images/urban/urban4.png",
                 "assets/images/urban/urban5.png"
             ],
+            "demoLink": "https://urban-monkey.vercel.app",
             "Technologies": ["ReactJs", "NodeJs", "Express", "MongoDB"]
         }
     ],
@@ -89,18 +90,21 @@
             "Title": "CRUD implementation using Nest Js",
             "Description": "CRUD implementation with JWT Authentication in NEST Js .",
             "ghLink": "https://github.com/Gurpreet-Moudgill/nest-backend",
+            "demoLink": "https://github.com/Gurpreet-Moudgill/nest-backend",
             "Technologies": ["Nest Js", "Node Js", "MongoDB", "TypeScript"]
         },
         {
             "Title": "Authentication and Authorization using JWT and Node",
             "Description": "Personal project of JWT Authentication and CRUD implementation using Node and SQL.",
             "ghLink": "https://github.com/Gurpreet-Moudgill/sql-backend",
+            "demoLink": "https://github.com/Gurpreet-Moudgill/sql-backend",
             "Technologies": ["Node Js", "JWT", "SQL"]
         },
         {
             "Title": "Web3 Contracts",
             "Description": "Made contracts using Web3 and Node.",
             "ghLink": "https://github.com/Gurpreet-Moudgill/web3Contracts",
+            "demoLink": "https://github.com/Gurpreet-Moudgill/web3Contracts",
             "Technologies": ["Web3", "Node Js"]
         },
         {
