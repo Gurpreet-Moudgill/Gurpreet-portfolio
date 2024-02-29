@@ -82,6 +82,27 @@
             ],
             "demoLink": "https://urban-monkey.vercel.app",
             "Technologies": ["ReactJs", "NodeJs", "Express", "MongoDB"]
+        },
+        {
+            "Title": "Pokedex",
+            "Description": "Pokemon serching website made from scratch with <span class='underline'>React</span>",
+            "imgs": [
+                "assets/images/pokedex/pokedex.png",
+                "assets/images/pokedex/pokedex1.png",
+                "assets/images/pokedex/pokedex2.png"
+            ],
+            "demoLink": "https://pokedex-zeta-liard.vercel.app/",
+            "Technologies": ["ReactJs, Hooks, PokeAPI"]
+        },
+        {
+            "Title": "Tesseract",
+            "Description": "Image text scraping website made from scratch with <span class='underline'>React, Node</span>, <span class='underline'>Express</span>, and <span class='underline'>Tesseract.Js.</span>",
+            "imgs": [
+                "assets/images/tesseract/tesseract.png",
+                "assets/images/tesseract/tesseract1.png"
+            ],
+            "demoLink": "https://tesseract-js-1.onrender.com/",
+            "Technologies": ["ReactJs, NodeJs, ExpressJs, Tesseract.Js"]
         }
     ],
 
@@ -113,6 +134,20 @@
             "ghLink": "https://github.com/Gurpreet-Moudgill/Creative-Studio",
             "demoLink": "https://gurpreet-moudgill.github.io/Creative-Studio/",
             "Technologies": ["HTML", "CSS"]
+        },
+        {
+            "Title": "Web-Crawler",
+            "Description": "Web crawler to scrap the data from any website",
+            "ghLink": "https://github.com/Gurpreet-Moudgill/crawler",
+            "demoLink": "https://github.com/Gurpreet-Moudgill/crawler",
+            "Technologies": ["TypeScript", "Node", "Express"]
+        },
+        {
+            "Title": "Price-Tracker",
+            "Description": "Price tracking API fro tracking prices of products from flipkart and amazon",
+            "ghLink": "https://github.com/Gurpreet-Moudgill/price-tracker",
+            "demoLink": "https://github.com/Gurpreet-Moudgill/price-tracker",
+            "Technologies": ["Python", "Flask", "BeautifulSoup"]
         }
     ],
     "Contact.Pretitle": "What’s Next",
