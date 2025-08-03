@@ -8,39 +8,42 @@
     "Header.cvName": "Gurpreet's Resume (2).pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>1 year of experience</span> developing APIs, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Next.js, React.js</span> and in <span class='underline'>Node.js</span> applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'>2+ years of experience</span> developing and maintaining full-stack applications, APIs, and tools using <span class='underline'>Angular, React.js, Node.js, Express.js</span>, and <span class='underline'>MongoDB</span>. I write clean, reusable, and scalable code following modern development practices, and have worked on real-world products in both startup and enterprise environments. I also have hands-on experience with <span class='underline'>AWS</span> for deploying and managing cloud-based applications.",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>1 year as a developer</span>, I seek to train every day. I have worked in making <span class='underline'>Web Apps </span>, <span class='underline'>optimizing codes</span>, and covering backend developer roles with <span class='underline'>Node.js, MongoDb and Mysql</span>. I have worked in teams and have experience in co-operating with teammates.",
-        "My skills also include implementing APIs, optimizing sites and suggesting and executing ideas that add value to the project I'm working on.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+        "In my <span class='underline'>2+ years as a full-stack developer</span>, I’ve built and maintained responsive, browser-based applications using technologies like <span class='underline'>Angular, React.js, TypeScript, and Node.js</span>. My work spans both frontend and backend, including experience with <span class='underline'>MongoDB, MySQL</span>, and deploying applications to <span class='underline'>AWS</span>.",
+        "I have hands-on experience implementing RESTful APIs, optimizing performance, and writing clean, scalable code. I thrive in collaborative environments, regularly contributing to team discussions, code reviews, and architectural decisions.",
+        "Outside of professional work, I actively build and ship personal projects — including web apps, tools, and crawlers — to experiment with new technologies and sharpen my skills. I approach each project with a problem-solving mindset and a focus on continuous learning.",
+        "Technologies I've worked with and trained on include (but are not limited to):"
     ],
 
 
     "Experience.Title": "Experience",
-    "Experience.Jobs": [{
+    "Experience.Jobs": [
+        {
+            "Tab": "Vigyanix",
+            "Title": "Fullstack developer (MEAN Stack) & Cloud Engineer",
+            "Date": "May 2024 - Present",
+            "Description": [
+                "Gained hands-on experience developing and maintaining the company’s own products using Angular, Node.js, and Express.",
+                "Collaborated with cross-functional teams using Jira for task management and seamless team coordination.",
+                "Contributed to product life-cycle management, ensuring smooth operation, updates, and optimizations for ongoing projects.",
+                "Learned Debugging and creating test cases for the code in playwright",
+                "Hands-on experience in AWS services like EC2, S3, RDS, Workspaces and Lambda"
+        ]
+        }
+        ,{
             "Tab": "Code Brew Labs",
-            "Title": "Fullstack developer",
-            "Date": "December 2023 - Present",
+            "Title": "Fullstack developer (MERN Stack)",
+            "Date": "June 2023 - May 2024",
             "Description": [
               "Implementing continuous improvements, working on FullStack and backend.",
               "Made Reusable Reastful APIs in Company's live projects",
               "Worked on NextJs in company's live projects",
               "Creation and maintenance of an OpenAI RAG based website Done in Nextjs, Nodejs, MongoDB, Tailwind.",
               "Creating platforms with NextJs, ReactJs, NodeJs, ExpressJS."
-            ]
-        },
-        {
-            "Tab": "Code Brew Labs",
-            "Title": "Backend developer",
-            "Date": "June 2023 - December 2023",
-            "Description": [
-              "Made Reusable Reastful APIs in Company's live projects",
-              "Optimised codes in live projects",
-              "Learned Web3 Js as well because mostly projects are related to blockchain",
-              "Learned Git and BitBucket"
             ]
         },
         {
